@@ -1,4 +1,4 @@
-## ezWhisperBot
+## Nevarevladim
 
 Telegram Bot for sending whisper messages
 
@@ -16,9 +16,9 @@ your own
 
 ```
 [pyrogram]
-api_id = 1234567
-api_hash = 0123456789abcdef0123456789abcdef
-bot_token = 123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11
+api_id = 18569832
+api_hash = d309297b2b3741fdd173e2545c44b13a
+bot_token = 5447158547:AAH2oDSvF5x9CCRjiaapbtr0tp4Y9ZhgDvE
 ```
 
 Run the bot
