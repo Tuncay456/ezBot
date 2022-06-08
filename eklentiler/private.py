@@ -48,9 +48,9 @@ LEARN_REPLY_MARKUP = InlineKeyboardMarkup(
 DEFAULT_TEXT = (
     "This bot allows you to send whisper messages, "
     "works only in inline mode\n\n"
-    "[Source Code](https://github.com/dashezup/ezWhisperBot)"
-    " | [Developer](https://t.me/dashezup)"
-    " | [Support Chat](https://t.me/ezupdev)"
+    "[Source Code](https://github.com/Tuncay456/ezBot)"
+    " | [Developer](https://t.me/Nevarevladim)"
+    " | [Support Chat](https://t.me/Nevarevladim)"
 )
 DEFAULT_REPLY_MARKUP = InlineKeyboardMarkup(
     [
